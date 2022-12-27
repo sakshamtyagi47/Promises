@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 179, 255);
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: blue;
+}
+
+p{
+    color: greenyellow;
+    font-size: 20px;
+}
+
+pre{
+    color: white;
+    font-size: 18px;
+}
